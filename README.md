@@ -158,7 +158,7 @@ The analysis provides insights into:
 
 This project is open source and available for educational and commercial purposes.
 
-## 👤 Author
+## 👤 Muhammad Hammad Farooq
 
 Created for chocolate sales data analysis and visualization.
 
@@ -166,7 +166,7 @@ Created for chocolate sales data analysis and visualization.
 
 Contributions, issues, and feature requests are welcome!
 
-## 📧 Contact
+## 📧 hammadfarooq470@gmail.com
 
 For questions or suggestions, please open an issue in the repository.
 
